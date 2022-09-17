@@ -28,7 +28,6 @@ Para descobrir o dígito verificador deve-se separar os 12 primeiros dígitos li
 9782940199617
 D12 D11 D10 D9 D8 D7 D6 D5 D4 D3 D2 D1 D0
 9 7 8 2 9 4 0 1 9 9 6 1 7
-Universidade do Vale do Itajaí
 
 1) Distribua os 12 primeiros dígitos em um quadro (multiplicando os dígitos das posições ímpares por 3) abaixo da esquerda para a direita, conforme representação abaixo:
 D12 D11 D10 D9 D8 D7 D6 D5 D4 D3 D2 D1
